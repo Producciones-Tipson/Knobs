@@ -5,8 +5,11 @@
 
     <string-array name="colores_disp">
         <item>Red</item>
+        <item>yellow</item>
+        <item>Orange</item>
         <item>white</item>
-        <item>Blue</item>
+        <item>Black</item>
+        <item>cyan</item>
         <item>Green</item>
     </string-array>
 
